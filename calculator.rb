@@ -1,1 +1,1 @@
-puts # Add your variables here
+puts "enter a number"# Add your variables here
