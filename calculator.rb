@@ -3,4 +3,5 @@ num1= gets.chomp()
 puts "enter another number"
 num2= gets.chomp()
 
-puts (num1+num2)# Add your variables here
+puts (num1+num2)
+# Add your variables here
