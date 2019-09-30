@@ -1,1 +1,1 @@
-# Add your variables here
+puts # Add your variables here
