@@ -1,2 +1,2 @@
 puts "enter a number"
-# Add your variables here
+num1= ()# Add your variables here
